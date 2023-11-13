@@ -5,6 +5,6 @@ Generate strong passwords using a bash script password generator that generates 
 
 ## Running bash script 
 
-Just copy and paste the script to your terminal if you are using Linux OS.
-
-Download Debian or ubuntu from the MS store if you are using Windows OS.
+- Clone or download the scirpt file
+- Just copy and paste the script to your terminal if you are using Linux OS.
+- Download Debian or ubuntu from the MS store if you are using Windows OS.
